@@ -1,0 +1,22 @@
+a{
+    color: rgb(38, 45, 63);
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/0b/0b/21/0b0b21898c7ad2f85c2004c0c208489a.png);
+
+}
+th{
+    color: rgb(49, 48, 61);
+}
+td{
+    font-size: 200%;
+    text-align: center;
+}
+h1{
+    color: cornsilk;
+    text-align: center;
+    font-size: 400%;
+}
+h6{
+    font-size: 28px;
+}
